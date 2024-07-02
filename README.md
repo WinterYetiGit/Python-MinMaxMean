@@ -1,5 +1,7 @@
 # Python-MinMaxMean
-A simply stats program for crunching the min, max and mean of a variable # set of numbers.
+A simply stats program for crunching the min, max and mean of a variable # set of numbers. The current version executes and
+then exits. I will likely revise at least with a loop to allow the user to keep using until they choose to exit. Later versions
+may then add more statistical measurements on the same as well.
 
 Copyright (c) 2024 WinterYetiy
 

@@ -1,5 +1,5 @@
 ################################ 
-# WinterYeti
+# WinterYetiy
 # Date: 03/01/2024
 # Python-MinMaxMean.py
 # Version 1.1
